@@ -16,7 +16,7 @@ Open the command palette and search for open in marked. (Should only be used on 
 
 This extension contributes the following settings:
 
-* `openinmmarked.apppath`: Set the path to your Marked 2 Application (default is `"/Applications/Marked 2.app"`)
+* `openinmarked.apppath`: Set the path to your Marked 2 Application (default is `"/Applications/Marked 2.app"`)
 
 ## Known Issues
 
