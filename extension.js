@@ -13,7 +13,7 @@ function activate(context) {
     // This line of code will only be executed once when your extension is activated
     console.log('Congratulations, your extension "open-in-marked" is now active!');
     const values = vscode.workspace.getConfiguration('openinmarked');
-    console.log(JSON.stringify(values));
+    // console.log(JSON.stringify(values));
     // The command has been defined in the package.json file
     // Now provide the implementation of the command with  registerCommand
     // The commandId parameter must match the command field in package.json
@@ -24,8 +24,9 @@ function activate(context) {
         // Display a message box to the user
         if (fs.existsSync(currentlyOpenTabfilePath)) {
             // Do something
-            vscode.window.showInformationMessage(`Open In Marked ${currentlyOpenTabfilePath}`);
-            cp.exec(`open -a "${values.apppath}" ${currentlyOpenTabfilePath}`, (err, stdout, stderr) => {
+            let cmd = `open -a "${values.apppath}" ${currentlyOpenTabfilePath}`;
+            vscode.window.setStatusBarMessage(cmd, 3000);
+            cp.exec(cmd, (err, stdout, stderr) => {
                 console.log('stdout: ' + stdout);
                 console.log('stderr: ' + stderr);
                 if (err) {

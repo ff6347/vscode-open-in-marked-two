@@ -22,7 +22,7 @@
         "openinmarked.apppath": {
           "type": "string",
           "default": "/Applications/Marked 2.app",
-          "description": "The path to the Marked 2 application"
+          "description": "The path to the Marked 2 application. If you are using Setapp it is \"/Applications/Setapp/Marked.app\""
         }
       }
     },
