@@ -1,7 +1,7 @@
 {
   "name": "open-in-marked",
-  "displayName": "open in marked",
-  "description": "Open Markdown files in Marked2",
+  "displayName": "Open in Marked 2",
+  "description": "Open Markdown files in Marked 2",
   "version": "1.0.4",
   "publisher": "fmoronzirfas",
   "engines": {
@@ -59,8 +59,7 @@
     "url": "git+https://github.com/fabianmoronzirfas/vscode-open-in-marked-two.git"
   },
   "keywords": [
-    "Marked",
-    "2",
+    "Marked 2",
     "Markdown"
   ],
   "author": "Fabian Morón Zirfas",
