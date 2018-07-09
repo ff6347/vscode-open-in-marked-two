@@ -18,12 +18,30 @@ This extension contributes the following settings:
 
 * `openinmarked.apppath`: Set the path to your Marked 2 Application (default is `"/Applications/Marked 2.app"`)
 
+```
+// if you are using Setapp the path is: "/Applications/Setapp/Marked.app"
+{
+  "openinmarked.apppath": "/Applications/Marked 2.app"
+}
+```
+
 ## Known Issues
 
 
 ## Release Notes
 
-Initial release
+### 1.0.3
+
+
+Remove message popping up in favor of a statusbar message.
+
+### 1.0.2
+
+npm audit fix
+
+### 1.0.1
+
+Fix typo in README that made copy pasting the settings not usable.
 
 ### 1.0.0
 
