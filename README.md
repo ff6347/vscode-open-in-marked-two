@@ -30,8 +30,12 @@ This extension contributes the following settings:
 
 ## Release Notes
 
-### 1.0.3
 
+### 1.0.4  
+
+More README
+
+### 1.0.3
 
 Remove message popping up in favor of a statusbar message.
 
