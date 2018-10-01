@@ -26,33 +26,3 @@ This extension contributes the following settings:
 ```
 
 ## Known Issues
-
-
-## Release Notes
-
-### 1.0.5
-
-Fix by [@jjarava](https://github.com/jjarava): Files with spaces in the name could not be opened. Thanks.  
-
-
-### 1.0.4  
-
-More README
-
-### 1.0.3
-
-Remove message popping up in favor of a statusbar message.
-
-### 1.0.2
-
-npm audit fix
-
-### 1.0.1
-
-Fix typo in README that made copy pasting the settings not usable.
-
-### 1.0.0
-
-Initial release
-
-**Enjoy!**
