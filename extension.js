@@ -24,7 +24,7 @@ function activate(context) {
         // Display a message box to the user
         if (fs.existsSync(currentlyOpenTabfilePath)) {
             // Do something
-            let cmd = `open -a "${values.apppath}" ${currentlyOpenTabfilePath}`;
+            let cmd = `open -a "${values.apppath}" "${currentlyOpenTabfilePath}"`;
             vscode.window.setStatusBarMessage(cmd, 3000);
             cp.exec(cmd, (err, stdout, stderr) => {
                 console.log('stdout: ' + stdout);
