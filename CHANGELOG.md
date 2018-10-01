@@ -27,3 +27,6 @@ Fixed: Typo in README that made copy pasting the settings not usable.
 Added: Initial release
 
 **Enjoy!**
+
+
+Using: [https://keepachangelog.com/en/1.0.0/](https://keepachangelog.com/en/1.0.0/) style
