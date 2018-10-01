@@ -41,7 +41,7 @@
     "@types/mocha": "^2.2.42",
     "@types/node": "^7.0.43",
     "cz-conventional-changelog": "^2.1.0",
-    "eslint": "^4.11.0",
+    "eslint": "^5.1.0",
     "typescript": "^2.6.1",
     "vscode": "^1.1.18"
   },
