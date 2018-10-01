@@ -30,6 +30,10 @@ This extension contributes the following settings:
 
 ## Release Notes
 
+### 1.0.5
+
+Fix by [@jjarava](https://github.com/jjarava): Files with spaces in the name could not be opened. Thanks.  
+
 
 ### 1.0.4  
 
