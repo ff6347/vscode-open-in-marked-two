@@ -1,10 +1,13 @@
 # Change Log
 All notable changes to the "open-in-marked" extension will be documented in this file.
 
+### 1.0.6
+
+Security: npm audit fix
+
 ### 1.0.5
 
 Fixed: by [@jjarava](https://github.com/jjarava) -  Files with spaces in the name could not be opened. Thanks.  
-
 
 ### 1.0.4  
 
