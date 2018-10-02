@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "open-in-marked" extension will be documented in this file.
 
+### 1.0.7
+
+Added: An icon. wow.
+
 ### 1.0.6
 
 Security: npm audit fix
