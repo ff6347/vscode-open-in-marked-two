@@ -1,3 +1,5 @@
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=fabianmoronzirfas/vscode-open-in-marked-two)](https://dependabot.com)
+
 # open-in-marked
 
 This VSCode extension opens files in Marked 2.
