@@ -42,7 +42,7 @@
     "@types/node": "^10.12.1",
     "cz-conventional-changelog": "^2.1.0",
     "eslint": "^5.8.0",
-    "typescript": "^3.1.5",
+    "typescript": "^3.1.6",
     "vscode": "^1.1.21"
   },
   "config": {
