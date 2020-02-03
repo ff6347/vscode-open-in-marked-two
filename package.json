@@ -40,7 +40,7 @@
   },
   "devDependencies": {
     "@types/node": "12.12.26",
-    "cz-conventional-changelog": "3.0.2",
+    "cz-conventional-changelog": "3.1.0",
     "eslint": "6.8.0",
     "typescript": "3.7.5",
     "vscode": "1.1.36"
