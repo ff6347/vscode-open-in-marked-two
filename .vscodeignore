@@ -6,3 +6,5 @@ jsconfig.json
 vsc-extension-quickstart.md
 .eslintrc.json
 logo.sketch
+assets/
+src/test/**
