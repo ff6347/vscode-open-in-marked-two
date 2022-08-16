@@ -2,7 +2,7 @@
 	"name": "open-in-marked",
 	"displayName": "Open in Marked 2",
 	"description": "Open Markdown files in Marked 2",
-	"version": "1.0.8",
+	"version": "1.0.6",
 	"publisher": "fmoronzirfas",
 	"engines": {
 		"vscode": "^1.22.0"
