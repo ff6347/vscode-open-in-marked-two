@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/fabianmoronzirfas/vscode-open-in-marked-two/compare/v1.0.8...v1.0.9) (2022-08-16)
+
+
+### Bug Fixes
+
+* Version ([60ae279](https://github.com/fabianmoronzirfas/vscode-open-in-marked-two/commit/60ae279ecab3bd54b9e951736179f0050e06e2f5))
+
 ## [1.0.6](https://github.com/fabianmoronzirfas/vscode-open-in-marked-two/compare/v1.0.5...v1.0.6) (2022-08-16)
 
 
