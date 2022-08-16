@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/fabianmoronzirfas/vscode-open-in-marked-two/compare/v1.0.4...v1.0.5) (2022-08-16)
+
+
+### Bug Fixes
+
+* **eslint:** update eslint ([ddede3c](https://github.com/fabianmoronzirfas/vscode-open-in-marked-two/commit/ddede3c15a0a03c292d96887394278c594669e62))
+
 # Change Log
 All notable changes to the "open-in-marked" extension will be documented in this file.
 
