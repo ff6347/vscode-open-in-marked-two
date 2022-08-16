@@ -35,8 +35,8 @@
 	},
 	"scripts": {
 		"postinstall": "node ./node_modules/vscode/bin/install",
-		"test": "jest",
-		"test:integration": "node ./node_modules/vscode/bin/test"
+		"test:integration": "node ./node_modules/vscode/bin/test",
+		"build": "vsce package"
 	},
 	"devDependencies": {
 		"@semantic-release/changelog": "6.0.1",
@@ -49,6 +49,7 @@
 		"eslint": "7.22.0",
 		"semantic-release-vsce": "5.1.0",
 		"typescript": "4.3.2",
+		"vsce": "2.10.0",
 		"vscode": "1.1.37"
 	},
 	"config": {
@@ -76,5 +77,11 @@
 	"galleryBanner": {
 		"color": "#ff6347"
 	},
-	"icon": "logo.png"
+	"icon": "logo.png",
+	"__metadata": {
+		"id": "0875f3ed-80dc-4d0d-b5e0-68f753ec9b7b",
+		"publisherDisplayName": "Fabian Morón Zirfas",
+		"publisherId": "28bf6beb-f373-4c4a-8530-d2bcb624d822",
+		"isPreReleaseVersion": false
+	}
 }
